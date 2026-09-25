@@ -1,0 +1,15 @@
+# compiled class files
+out/
+*.class
+
+# runtime data
+data/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp

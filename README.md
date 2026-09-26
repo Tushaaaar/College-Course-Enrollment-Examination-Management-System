@@ -97,6 +97,11 @@ Here's what Java concepts we covered and where:
 
 Services get their repositories through constructor parameters. One shared Scanner used across all menus.
 
+### Architecture Diagrams
+
+- [Complete System Architecture](https://miro.com/app/board/uXjVHiGs0cI=/?share_link_id=480792921128)
+- [Database Schema Architecture](https://dbdiagram.io/d/College-Course-andamp;-Examination-Management-System-6ab65e1558694256129453d0)
+
 ## Team
 
 | Member | What they built |
@@ -106,3 +111,4 @@ Services get their repositories through constructor parameters. One shared Scann
 | Member 3 | Faculty and Course Assignment - Faculty entity, CourseAssignment, FacultyService |
 | Member 4 | Exams and Marks - Exam (with arrays), Mark, validation |
 | Member 5 | Results and Reports - Result with TreeSet, grade calculation, CSV export, reports |
+

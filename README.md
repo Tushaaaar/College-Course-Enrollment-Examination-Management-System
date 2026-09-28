@@ -104,11 +104,11 @@ Services get their repositories through constructor parameters. One shared Scann
 
 ## Team
 
-| Member | What they built |
-|--------|----------------|
-| Member 1 | Foundation stuff - Person, Student, interfaces, BaseRepository, Main.java |
-| Member 2 | Course and Enrollment - Course entity, HashMap repo, enrollment with checks |
-| Member 3 | Faculty and Course Assignment - Faculty entity, CourseAssignment, FacultyService |
-| Member 4 | Exams and Marks - Exam (with arrays), Mark, validation |
-| Member 5 | Results and Reports - Result with TreeSet, grade calculation, CSV export, reports |
+| Member | Name | What they built |
+|--------|------|----------------|
+| Member 1 | Tushar Parmar | Foundation stuff - Person, Student, interfaces, BaseRepository, Main.java |
+| Member 2 | Aayushi Giri | Course and Enrollment - Course entity, HashMap repo, enrollment with checks |
+| Member 3 | Divyansh Raj | Faculty and Course Assignment - Faculty entity, CourseAssignment, FacultyService |
+| Member 4 | Priyanjali | Exams and Marks - Exam (with arrays), Mark, validation |
+| Member 5 | Bhumika Singh Gour | Results and Reports - Result with TreeSet, grade calculation, CSV export, reports |
 
